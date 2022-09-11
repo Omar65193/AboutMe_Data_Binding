@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">omar</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Las estrellas son motores de energía cósmica que producen
+        calor, luz, rayos ultravioleta, rayos X y otras formas de radiación.
+        Están compuestas casi en su totalidad de gas y plasma, un estado de
+        supercalentamiento de la materia compuesta de partículas subatómicas.
+        \n\n
+        Aunque la estrella más conocida, el Sol, existe en solitario, tres de
+        cada cuatro estrellas existen como parte de un sistema binario compuesto
+        por dos estrellas orbitando mutuamente.
+        \n\n
+        Nadie sabe cuántas estrellas existen, pero podrían alcanzar un número extraordinario.
+        Nuestro universo podría albergar más de 100 000 millones de galaxias, y cada una de
+        ellas podría tener más de 100 000 millones de estrellas. Tan sólo en una noche clara,
+        desde la Tierra pueden observarse alrededor de 3000 estrellas a simple vista.
+        Los humanos de diferentes culturas han dibujado el cielo mediante estas estrellas.
+        \n\n
+
+    </string>
+    <string name="image_android">Androide</string>
+</resources>
